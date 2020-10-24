@@ -1,0 +1,39 @@
+.newEmployeeUploadImg{
+	border = 1px solid #000000;
+}
+
+.salary-heading{
+	text-align: center;
+}
+
+.btn-speace{
+	margin-left: 6%;
+}
+
+.ex-btn{
+	margin-right: 1%;
+}
+
+.pos-product{
+	color: #fff;
+	width: 100%;
+    font-size: 18px;
+    font-weight: 300;
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.bottom-space{
+	color: #fff;
+	width: 100%;
+    font-size: 18px;
+    font-weight: 300;
+    display: block;
+    text-align: center;
+	padding-bottom: 30px;
+}
+
+.top-space{
+	padding-top: 30px
+}
